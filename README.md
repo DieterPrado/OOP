@@ -3,18 +3,18 @@
 ### Table of contents
 
 - [General info](#general-info)
-- Technologies
-- Setup
-- Things learned
-- Programming paradigms. 
-- What is object oriented programming
-- 4 pillars of object oriented programming.
-- Class declaration.
-- Object creation.
-- What is a constructor method.
-- Variable declaration.
-- Creation and use of methods.
-- Inheritance.
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Things learned](#things-learned)
+- *Programming paradigms. 
+- *What is object oriented programming
+- *4 pillars of object oriented programming.
+- *Class declaration.
+- *Object creation.
+- *What is a constructor method.
+- *Variable declaration.
+- *Creation and use of methods.
+- *Inheritance.
 
 ------------
 

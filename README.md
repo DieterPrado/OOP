@@ -6,17 +6,17 @@
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Things learned](#things-learned)
-- Programming paradigms. 
-- What is object oriented programming
-- 4 pillars of object oriented programming.
-- Class declaration.
-- Object creation.
-- What is a constructor method.
-- Variable declaration.
-- Creation and use of methods.
-- Access modifiers.
-- Inheritance.
-- Getters and setters.
+>- Programming paradigms. 
+>- What is object oriented programming
+>- 4 pillars of object oriented programming.
+>- Class declaration.
+>- Object creation.
+>- What is a constructor method.
+>- Variable declaration.
+>- Creation and use of methods.
+>- Access modifiers.
+>- Inheritance.
+>- Getters and setters.
 
 ------------
 
@@ -59,35 +59,35 @@ In the OOP course I learned the basics of OOP, especially analyzing objects and 
 
 
 ### Things learned
->- Analyzing objects and abstracting information from them.
+- Analyzing objects and abstracting information from them.
 
->- 4 pillars of object oriented programming. Inheritance, Encapsulation, Abstraction and Polymorphism.
+- 4 pillars of object oriented programming. Inheritance, Encapsulation, Abstraction and Polymorphism.
 
->- Programming paradigms: Are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms. Common programming paradigms include: object oriented programming. Functional. Reactive.
+- Programming paradigms: Are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms. Common programming paradigms include: object oriented programming. Functional. Reactive.
 
->- What is object oriented programming. Is a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects. There are many object-oriented programming languages including JavaScript, C++, Java, and Python.
+- What is object oriented programming. Is a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects. There are many object-oriented programming languages including JavaScript, C++, Java, and Python.
 
->- UML modeling symbols and rules.
+- UML modeling symbols and rules.
 
->- Class declaration. 
+- Class declaration. 
 
->- Object creation. Example: **ClassName className = new ClassName();**
+- Object creation. Example: **ClassName className = new ClassName();**
 
->- Constructor method. It tells the minimum requiered data to create an object from a class. There can be multiple constructor methods for a single class. **public ClassName(String requieredString, int requieredInt){}**. Another example: **public ClasName(){}** this constructor doesn´t requeire any data to create an object.
+- Constructor method. It tells the minimum requiered data to create an object from a class. There can be multiple constructor methods for a single class. **public ClassName(String requieredString, int requieredInt){}**. Another example: **public ClasName(){}** this constructor doesn´t requeire any data to create an object.
 
->- Modularity principles.
+- Modularity principles.
 
->- Always reuse code. 
+- Always reuse code. 
 
->- Variable declaration. **int exampleNumber** = 8; or **int anotherExample;**
+- Variable declaration. **int exampleNumber** = 8; or **int anotherExample;**
 
->- Creation and use of methods. We use **void** to indicate a method won't return a value. If the method does return a value we use return inside the method code. **public exampleMethod(int requieredNumber){return requiredNumber + 1;}**
+- Creation and use of methods. We use **void** to indicate a method won't return a value. If the method does return a value we use return inside the method code. **public exampleMethod(int requieredNumber){return requiredNumber + 1;}**
 
->- If/Else declaration.
+- If/Else declaration.
 
->- How inheritance works. In java we use "extends" to indicate a class inherits from another class. This daughter class can use all the methods and variables defined in the super class. A single class can not inherit from several classes at a the same time.
+- How inheritance works. In java we use "extends" to indicate a class inherits from another class. This daughter class can use all the methods and variables defined in the super class. A single class can not inherit from several classes at a the same time.
 
->- Access modifiers. Restrict access to data depending the modifier. **private**: data only accesible from the class itself. **public**: data accesible from  all the project. **protected**: Visible to the package and all subclasses.
+- Access modifiers. Restrict access to data depending the modifier. **private**: data only accesible from the class itself. **public**: data accesible from  all the project. **protected**: Visible to the package and all subclasses.
 
->- Getters and Setters. Part of the encapsulation principle, we must ensure sensitive data is hidden from users (private modifier). To get and update this data we need to provide and use getters and setters. These getters and setter must be declared within the class the values come from.
+- Getters and Setters. Part of the encapsulation principle, we must ensure sensitive data is hidden from users (private modifier). To get and update this data we need to provide and use getters and setters. These getters and setter must be declared within the class the values come from.
 
